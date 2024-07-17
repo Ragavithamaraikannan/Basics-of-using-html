@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <tittle>Create the Html page Structure</tittle>  
+        <meta Charset="utf-8/">
+        <meta Name="Description" content=""/>
+        <meta Name="keywords"content=""/>
+    </head>
+
+    <body></body>
+</html>
+</html>
